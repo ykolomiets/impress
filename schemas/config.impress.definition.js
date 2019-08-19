@@ -70,7 +70,7 @@
     key:          '[string]',
     cert:         '[string]',
     applications: '[array]',
-    inspect:      '[number]'
+    inspect:      '[string]'
   }
 
 }
